@@ -1,5 +1,5 @@
 <p align="center">
-  < img src = "AI_smart_toy.png" width="100%">
+  <img src="./AI_smart_toy.png" width="100%">
 </p>
 # 🧸 AI Smart Toy Market Intelligence
 
