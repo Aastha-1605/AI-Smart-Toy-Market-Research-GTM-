@@ -69,5 +69,3 @@ See `docs/AI_Smart_Toy_Market_Research_Report.docx` for the complete project sto
 ## 🛠️ Tech Stack
 **SQL | Python | Pandas | Seaborn | Matplotlib | Plotly | Power BI**
 
-## ⚠️ Data Note
-The structured CSVs in this repository are **derived from the figures and tables in the supplied Bern Go-To-Market Strategy report**. They are designed for portfolio analytics and reproducible querying; they are not a transactional customer dataset.
