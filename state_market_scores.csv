@@ -1,0 +1,14 @@
+state,child_population_score,tech_policy_score,income_score,total_score,child_population_m,median_salary_usd
+California,10,10,8,28,4.4,54030.0
+Massachusetts,5,9,10,24,,60690.0
+New York,7,8,8,23,2.3,56840.0
+Washington,4,8,9,21,,59920.0
+Texas,9,7,5,21,4.04,45970.0
+Colorado,6,7,7,20,,
+Illinois,7,4,6,17,,
+Florida,8,5,4,17,,
+Pennsylvania,6,3,6,15,,
+Georgia,5,3,5,13,,
+Ohio,6,2,5,13,,
+North Carolina,4,4,4,12,,
+Michigan,3,5,4,12,,
