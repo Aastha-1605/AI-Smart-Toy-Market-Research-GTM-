@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="AI_Smart_Toy.png" alt="AI Smart Toy Market Intelligence" width="100%">
+</p>
 # 🧸 AI Smart Toy Market Intelligence
 
 ### Strategic Market Analysis with GTM | Bern AI Smart Toy Startup
