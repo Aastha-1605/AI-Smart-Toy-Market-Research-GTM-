@@ -1,4 +1,4 @@
-### 🧸 AI Smart Toy Market Intelligence
+<h1 align="center">🧸 AI Smart Toy Market Intelligence</h1>
 <p align="center">
   <img src="AI%20smart%20toy.png" alt="AI Smart Toy Market Intelligence" height="300" width= "800">
 </p>
